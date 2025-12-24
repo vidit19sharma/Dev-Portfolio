@@ -71,7 +71,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:8080) to view in your browser.
+Open [http://localhost:8080](http://localhost:8080) to view in your browser.
 
 ---
 
