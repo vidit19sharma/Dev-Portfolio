@@ -4,14 +4,14 @@
 # Dev-Portfolio
 
 > **My personal developer portfolio** — built with **Vite, React & TypeScript** and styled using **Tailwind CSS**.
-> Showcase of skills, projects, contact info and more.
+> Showcase of skills, projects, contact info, and more.
 
 ---
 
 ## 🚀 Live Demo
 
-> *Add your deployed site link here — e.g.*
-> 🔗 [https://your-portfolio-domain.com](https://your-portfolio-domain.com)
+> *Will be updating soon*
+
 
 ---
 
@@ -29,8 +29,6 @@ This repository contains the source code for my developer portfolio website — 
 | **React**             | UI framework              |
 | **TypeScript**        | Type safety               |
 | **Tailwind CSS**      | Utility-first styling     |
-| **ESLint + Prettier** | Code quality & formatting |
-
 ---
 
 ## 📁 Project Structure
@@ -73,7 +71,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) to view in your browser.
+Open [http://localhost:5173](http://localhost:8080) to view in your browser.
 
 ---
 
@@ -111,9 +109,9 @@ Typically, content lives in JSON or React components under `src`.
 
 > Add your contact info here — e.g.
 
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Twitter:** [https://twitter.com/yourhandle](https://twitter.com/yourhandle)
+* [**Email:**](mailto:vidit19sharma@gmail.com)
+* [**LinkedIn:**](https://github.com/vidit19sharma)
+
 
 ---
 
@@ -125,10 +123,7 @@ If you find this project useful — **give it a ⭐** and follow for more! 😊
 
 ## 📄 License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source.
 
 ---
 
-If you want, I can also generate a **markdown badges section** (stars, build status, deploy preview) or help you write **content components** (skills/projects).
-
-[1]: https://github.com/vidit19sharma/Dev-Portfolio "GitHub - vidit19sharma/Dev-Portfolio: This is my Portfolio App"
