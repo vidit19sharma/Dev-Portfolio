@@ -17,7 +17,7 @@
 
 ## 📌 About
 
-This repository contains the source code for my developer portfolio website — a responsive, modern, and customizable profile that highlights my professional skills, work, projects, and contact info.([GitHub][1])
+This repository contains the source code for my developer portfolio website — a responsive, modern, and customizable profile that highlights my professional skills, work, projects, and contact info.([GitHub](https://github.com/vidit19sharma))
 
 ---
 
