@@ -13,7 +13,7 @@ const projects = [
       "Custom AI tools for business logic and domain-specific workflows",
       "Implemented Model Context Protocol (MCP) and Long-Running Operation (LRO) for Human Approval"
     ],
-    github: "#"
+    github: "https://github.com/vidit19sharma/Neogentic-Agents"
   },
   {
     title: "Inventory Pro",
@@ -26,7 +26,7 @@ const projects = [
       "Full CRUD functionality for item management",
       "Responsive design with HTML, CSS, and Tailwind CSS"
     ],
-    github: "#"
+    github: "https://github.com/vidit19sharma/Inventory-Management-App"
   },
   {
     title: "Ecommerce API",
@@ -39,7 +39,7 @@ const projects = [
       "MongoDB with Mongoose for seamless data interaction",
       "Thorough API testing using Postman"
     ],
-    github: "#"
+    github: "https://github.com/vidit19sharma"
   }
 ];
 
