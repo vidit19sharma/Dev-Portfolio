@@ -64,7 +64,7 @@ export const Contact = () => {
               
               <div className="flex gap-4">
                 <a 
-                  href="https://github.com" 
+                  href="https://github.com/vidit19sharma" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-full bg-secondary flex items-center justify-center text-secondary-foreground hover:bg-primary hover:text-primary-foreground transition-colors"
@@ -72,7 +72,7 @@ export const Contact = () => {
                   <Github className="w-5 h-5" />
                 </a>
                 <a 
-                  href="https://linkedin.com" 
+                  href="https://www.linkedin.com/in/vidit-sharma-60890a1ba" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-full bg-secondary flex items-center justify-center text-secondary-foreground hover:bg-primary hover:text-primary-foreground transition-colors"
