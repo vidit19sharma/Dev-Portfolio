@@ -77,10 +77,12 @@ export const Projects = () => {
                   </h3>
                   <p className="text-xs text-muted-foreground mt-1">{project.date}</p>
                 </div>
+                
                 <a 
                   href={project.github} 
                   className="text-muted-foreground hover:text-primary transition-colors"
                   aria-label="View on GitHub"
+                  target="_blank"
                 >
                   <Github className="w-5 h-5" />
                 </a>
