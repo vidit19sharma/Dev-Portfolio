@@ -6,7 +6,7 @@ const experiences = [
     company: "Uniwide Technologies",
     role: "Software Developer",
     location: "New Delhi, Delhi",
-    period: "Feb 2023 – Oct 2025",
+    period: "Feb 2023 – Dec 2025",
     highlights: [
       "Leverage AI for structured problem-solving, brainstorming, and rapid prototyping.",
       "Developed and maintained 10+ dynamic websites using JS and React, increasing client engagement by 30%.",
